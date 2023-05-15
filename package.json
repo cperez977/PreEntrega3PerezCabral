@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-ibera-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:build/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
